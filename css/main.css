@@ -1,0 +1,22 @@
+*{
+    font-family: Roboto;
+}
+body { 
+background: url(../css/bg.jpeg) no-repeat center center fixed; 
+-webkit-background-size: cover;
+-moz-background-size: cover;
+-o-background-size: cover;
+background-size: cover;
+}
+
+#info{
+    margin-left: 60%;
+    margin-top: 10%
+}
+.info{
+    color:grey;
+}
+.cf{
+    color:brown;
+    
+}
